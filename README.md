@@ -1,11 +1,11 @@
 # Sensor-Pendeteksi-Gempa
 Sensor Pendeteksi Gempa Menggunakan Sensor Getar NC-SW440 dan Alaram Gempa
 Bahan-Bahan:
--Arduiuno
--KabelJumper
--Sensor NC-SW440 (versimana aja bisa, hanya yang saya pakai adalah ini)
--Relay 1 Channel
--Alaram Gempa (Terserah mau pakai alaram apa aja, yang penting membutuhkan listrik)
+1.Arduiuno,
+2.KabelJumper,
+3.Sensor NC-SW440 (versimana aja bisa, hanya yang saya pakai adalah ini,
+4.Relay 1 Channel,
+5.Alaram Gempa (Terserah mau pakai alaram apa aja, yang penting membutuhkan listrik)
 
 nb: untuk koding pin output sesuaikan dengan pin keberapa kalian pasang
 -untuk pemula pelajari GND, VCC, dan Vin
